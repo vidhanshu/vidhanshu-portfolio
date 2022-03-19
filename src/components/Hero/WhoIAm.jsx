@@ -12,7 +12,7 @@ const im = [
 ];
 function WhoIAm() {
   useEffect(() => {
-    setInterval(() => {
+    const id = setInterval(() => {
       setCurr((p) => {
         if (p == im.length - 1) {
           return 0;
@@ -21,6 +21,9 @@ function WhoIAm() {
         }
       });
     }, 3000);
+    return () => {
+      clearInterval(id);
+    };
   }, []);
   const [curr, setCurr] = useState(0);
   return (

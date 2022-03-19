@@ -5,7 +5,6 @@ import {
   SectionText,
   SectionTitle,
 } from "../../styles/GlobalComponents";
-import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
 import WhoIAm from "./WhoIAm";
 const Hero = (props) => (
@@ -16,7 +15,7 @@ const Hero = (props) => (
         My personal Portfolio
       </SectionTitle>
       <SectionText>
-        My Aim is to achieve success by helping others by being of part of their
+        My Aim is to achieve success by helping others by being part of their
         success.
       </SectionText>
       <WhoIAm></WhoIAm>

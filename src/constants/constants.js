@@ -160,3 +160,20 @@ export const TimeLineData = [
     { year: 'currently', text: 'Doing competative programing & DSA', },
     { year: 'Future', text: 'Become successfull software engineer', },
 ];
+
+export const certificates = [{
+    date: "january 2022",
+    title: "web designing competition",
+    position: "1st Runner up",
+    image: "/images/BITS.jpg",
+}, {
+    date: "April 2021",
+    title: "Python quiz competition",
+    position: "Participation",
+    image: "/images/VIDHANSHU B..PNG",
+}, {
+    date: "january 2021",
+    title: "1st year",
+    position: "2nd",
+    image: "/images/VIDHANSHU VITTHALRAO BORADE.png",
+}]

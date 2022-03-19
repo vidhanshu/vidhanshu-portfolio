@@ -1,6 +1,12 @@
 import React from "react";
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
-
+import {
+  AiFillGithub,
+  AiFillInstagram,
+  AiFillLinkedin,
+  AiFillFacebook,
+  AiOutlineVerified,
+} from "react-icons/ai";
+import { DiStackoverflow, DiCode } from "react-icons/di";
 import { SocialIcons } from "../Header/HeaderStyles";
 import {
   CompanyContainer,
@@ -34,14 +40,23 @@ const Footer = () => {
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com">
+          <SocialIcons href="https://github.com/vidhanshu">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://linkedin.com">
+          <SocialIcons href="https://www.linkedin.com/in/vidhanshu-borade-325741210/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://instagram.com">
+          <SocialIcons href="https://instagram.com/vidhanshu_borade">
             <AiFillInstagram size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="https://www.facebook.com/vidhanshu.borade.18/">
+            <AiFillFacebook size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="https://stackoverflow.com/users/17539205/vidhanshu-borade">
+            <DiStackoverflow size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="https:/codechef.com/users/vidhanshu">
+            <DiCode size="3rem" />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>

@@ -280,3 +280,21 @@ export const LinkIconImg = styled.div `
     height: ${({ large }) => large ? '32px' : '16px'};
   }
 `
+
+
+export const GoToTop = styled.span `
+position:fixed;
+bottom:2rem;
+right:2rem;
+cursor:pointer;
+width:3rem;
+height:3rem;
+background:rgba(0,0,0);
+font-size:3rem;
+border-radius:50%;
+display:flex;
+padding:2rem;
+justify-content:center;
+align-items:center;
+z-index:1000;
+`
