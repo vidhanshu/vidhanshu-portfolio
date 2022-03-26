@@ -162,18 +162,25 @@ export const TimeLineData = [
 ];
 
 export const certificates = [{
-    date: "january 2022",
-    title: "web designing competition",
-    position: "1st Runner up",
-    image: "/images/BITS.jpg",
-}, {
-    date: "April 2021",
-    title: "Python quiz competition",
-    position: "Participation",
-    image: "/images/VIDHANSHU B..PNG",
-}, {
-    date: "january 2021",
-    title: "1st year",
-    position: "2nd",
-    image: "/images/VIDHANSHU VITTHALRAO BORADE.png",
-}]
+        date: "January 2022",
+        title: "web designing competition",
+        position: "1st Runner up",
+        image: "/images/BITS.jpg",
+    }, {
+        date: "April 2021",
+        title: "Python quiz competition",
+        position: "Participation",
+        image: "/images/VIDHANSHU B..PNG",
+    }, {
+        date: "January 2021",
+        title: "1st year",
+        position: "2nd",
+        image: "/images/gdsc.jpg",
+    },
+    {
+        date: "March 2022",
+        title: "1st year",
+        position: "2nd",
+        image: "/images/",
+    },
+]
