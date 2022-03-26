@@ -178,9 +178,9 @@ export const certificates = [{
         image: "/images/gdsc.jpg",
     },
     {
-        date: "March 2022",
-        title: "1st year",
-        position: "2nd",
-        image: "/images/",
+        date: "February 2022",
+        title: "GDSC WOW CONTRIBUTION",
+        position: "Appreciation",
+        image: "/images/VIDHANSHU VITTHALRAO BORADE.png",
     },
 ]
