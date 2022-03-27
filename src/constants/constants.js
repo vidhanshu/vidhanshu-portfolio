@@ -150,6 +150,15 @@ export const projects = [{
         visit: 'https://vidhanshu.github.io/loading-animation/',
         id: 16,
     },
+    {
+        title: 'Progress dashboard',
+        description: "It is complex layout having dashboard responsive",
+        image: '/images/Progress.svg',
+        tags: ['HTML', "CSS", 'JavaScript'],
+        source: "https://github.com/vidhanshu/dash-board-grid",
+        visit: 'https://dash-board-grid.vercel.ap7',
+        id: 16,
+    },
 ];
 
 export const TimeLineData = [
