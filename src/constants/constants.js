@@ -156,7 +156,7 @@ export const projects = [{
         image: '/images/Progress.svg',
         tags: ['HTML', "CSS", 'JavaScript'],
         source: "https://github.com/vidhanshu/dash-board-grid",
-        visit: 'https://dash-board-grid.vercel.ap7',
+        visit: 'https://dash-board-grid.vercel.app',
         id: 16,
     },
 ];
