@@ -1,4 +1,12 @@
 export const projects = [{
+        title: 'Instagram-clone-application',
+        description: "This is a clone of Instagram application. Which is a image sharing social media application with firebase firestore data base and firebase authentication.",
+        image: '/images/ig.svg',
+        tags: ['HTML', 'CSS', "JS", "PHP", "Mysql"],
+        source: 'https://github.com/vidhanshu/instagram-rn-clone',
+        visit: 'https://www.mediafire.com/file/xwhlrmhgxbvorga/myApp-a2d05148f5f741ffb8d1634a4390c33e-signed_%25281%2529.apk/file',
+        id: 0,
+    }, {
         title: 'CHATROOM',
         description: "The first chat application i made. i used database mysql to store the messages.",
         image: '/images/php chat app.svg',
