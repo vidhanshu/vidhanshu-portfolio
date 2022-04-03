@@ -2,7 +2,7 @@ export const projects = [{
         title: 'Instagram-clone-application',
         description: "This is a clone of Instagram application. Which is a image sharing social media application with firebase firestore data base and firebase authentication.",
         image: '/images/ig.svg',
-        tags: ['HTML', 'CSS', "JS", "PHP", "Mysql"],
+        tags: ['React-native', 'firebase', 'HTML', "CSS", 'JavaScript'],
         source: 'https://github.com/vidhanshu/instagram-rn-clone',
         visit: 'https://www.mediafire.com/file/xwhlrmhgxbvorga/myApp-a2d05148f5f741ffb8d1634a4390c33e-signed_%25281%2529.apk/file',
         id: 0,
@@ -13,7 +13,7 @@ export const projects = [{
         tags: ['HTML', 'CSS', "JS", "PHP", "Mysql"],
         source: 'https://github.com/vidhanshu/chat-room-php',
         visit: 'https://vidhanshu.000webhostapp.com/',
-        id: 0,
+        id: 1,
     }, {
         title: 'SYSTEM',
         description: "LIC management system is the system made using C++ Object oriented programming and file handling in c++",
@@ -21,7 +21,7 @@ export const projects = [{
         tags: ['c++', 'c++ oops', "c++ file handling"],
         source: 'https://github.com/vidhanshu/LIC',
         visit: 'https://github.com/vidhanshu/LIC/blob/master/LIC.cpp',
-        id: 1,
+        id: 2,
     },
     {
         title: 'Musify',
@@ -30,7 +30,7 @@ export const projects = [{
         tags: ['HTML', "CSS", 'JavaScript', "HTML Audio"],
         source: 'https://github.com/vidhanshu/Musify',
         visit: 'https://musify-ten.vercel.app/',
-        id: 2,
+        id: 3,
     },
     {
         title: 'Vmovie',
@@ -39,7 +39,7 @@ export const projects = [{
         tags: ['React', 'REST API', 'API'],
         source: 'https://github.com/vidhanshu/vmovie',
         visit: 'https://vmovie.vercel.app/',
-        id: 3,
+        id: 4,
     },
     {
         title: 'Netflix clone',
@@ -48,7 +48,7 @@ export const projects = [{
         tags: ['React', 'REST API', 'API'],
         source: 'https://github.com/vidhanshu/vmovie',
         visit: 'https://vmovie.vercel.app/',
-        id: 4,
+        id: 5,
     },
     {
         title: 'Vnotes',
@@ -57,7 +57,7 @@ export const projects = [{
         tags: ['React', "DSA", "javascript"],
         source: 'https://github.com/vidhanshu/Vnotes',
         visit: 'https://vnotes.vercel.app/',
-        id: 5,
+        id: 6,
     },
     {
         title: 'BITS IT',
@@ -66,7 +66,7 @@ export const projects = [{
         tags: ['HTML', "JS", "CSS"],
         source: 'https://github.com/vidhanshu/bitsit',
         visit: 'https://vidhanshu.github.io/bitsit/',
-        id: 6,
+        id: 7,
     },
     {
         title: 'CoderX',
@@ -75,7 +75,7 @@ export const projects = [{
         tags: ['HTML', "JS", "CSS"],
         source: 'https://github.com/vidhanshu/coderX',
         visit: 'https://vidhanshu.github.io/coderX/',
-        id: 7,
+        id: 8,
     },
     {
         title: 'Vid hack',
@@ -84,7 +84,7 @@ export const projects = [{
         tags: ['HTML', "JS", "CSS"],
         source: 'https://github.com/vidhanshu/vidhacks.github.io',
         visit: 'https://vidhanshu.github.io/vidhacks.github.io/',
-        id: 8,
+        id: 9,
     },
     {
         title: 'Tennis Game',
@@ -93,7 +93,7 @@ export const projects = [{
         tags: ['HTML', "CSS", 'JavaScript', "HTML5 canvas"],
         source: 'https://github.com/vidhanshu/Tennis.github.io',
         visit: 'https://vidhanshu.github.io/Tennis.github.io/',
-        id: 9,
+        id: 10,
     },
     {
         title: 'Tic Tac Toe Game',
@@ -102,7 +102,7 @@ export const projects = [{
         tags: ['HTML', "CSS", 'JavaScript'],
         source: "https://github.com/vidhanshu/tictactoe.github.io",
         visit: 'https://vidhanshu.github.io/tictactoe.github.io/',
-        id: 10,
+        id: 11,
     },
     {
         title: 'RGB quize',
@@ -111,7 +111,7 @@ export const projects = [{
         tags: ['HTML', "CSS", 'JavaScript'],
         source: "https://github.com/vidhanshu/RGBquize",
         visit: 'https://rgb-quize.vercel.app',
-        id: 11,
+        id: 12,
     },
     {
         title: 'Vquize',
@@ -120,7 +120,7 @@ export const projects = [{
         tags: ["React.js", 'HTML', "CSS", 'JavaScript'],
         source: "https://github.com/vidhanshu/vquize",
         visit: 'https://vquize.vercel.app',
-        id: 12,
+        id: 13,
     },
     {
         title: 'First-website',
@@ -129,7 +129,7 @@ export const projects = [{
         tags: ['HTML', "CSS", 'JavaScript'],
         source: "https://github.com/vidhanshu/First_website",
         visit: 'https://vidhanshu.github.io/First_website/',
-        id: 13,
+        id: 14,
     },
     {
         title: 'Vtravel',
@@ -138,7 +138,7 @@ export const projects = [{
         tags: ["React.js", 'HTML', "CSS", 'JavaScript'],
         source: "https://github.com/vidhanshu/travel",
         visit: 'https://travel-7wt1yeekh-vidhanshu.vercel.app/',
-        id: 14,
+        id: 15,
     },
     {
         title: 'Portfolio',
@@ -147,7 +147,7 @@ export const projects = [{
         tags: ["React.js", 'HTML', "CSS", 'JavaScript'],
         source: "https://github.com/vidhanshu/travel",
         visit: 'https://vidhanshu-portfolio.vercel.app',
-        id: 15,
+        id: 16,
     },
     {
         title: 'Loading animation',
@@ -156,7 +156,7 @@ export const projects = [{
         tags: ['HTML', "CSS", 'JavaScript'],
         source: "https://github.com/vidhanshu/loading-animation",
         visit: 'https://vidhanshu.github.io/loading-animation/',
-        id: 16,
+        id: 17,
     },
     {
         title: 'Progress dashboard',
@@ -165,7 +165,7 @@ export const projects = [{
         tags: ['HTML', "CSS", 'JavaScript'],
         source: "https://github.com/vidhanshu/dash-board-grid",
         visit: 'https://dash-board-grid.vercel.app',
-        id: 16,
+        id: 18,
     },
 ];
 
