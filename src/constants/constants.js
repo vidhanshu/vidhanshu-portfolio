@@ -36,7 +36,7 @@ export const projects = [{
         title: 'Vmovie',
         description: "Vmovie web-app build with React.js where you will get updates related to latest movies, you can watch trailors, get known with trending actors,movies and many more",
         image: '/images/vmovie.svg',
-        tags: ['React', 'REST API', 'API'],
+        tags: ['React', 'API'],
         source: 'https://github.com/vidhanshu/vmovie',
         visit: 'https://vmovie.vercel.app/',
         id: 4,
